@@ -1,0 +1,11 @@
+.MuiCard-root{
+  width: 50%;
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  .form-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+}
